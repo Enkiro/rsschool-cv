@@ -1,1 +1,1 @@
-https://thed-rs.github.io/rsschool-cv/enkiro
+https://enkiro.github.io/rsschool-cv/
