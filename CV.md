@@ -11,7 +11,7 @@
   * **GIT**
 
 ## Work experience
-Now I work in the technical support service
+Now I work in the technical support service.
 ## Education
 * **Peter the Great St.Petersburg Polytechnic University (SPbPU)**
   + Specialty: Economics and management at the enterprise of mechanical engineering
