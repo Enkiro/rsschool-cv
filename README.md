@@ -1,1 +1,1 @@
-https://enkiro.github.io/rsschool-cv/cv.md
+https://enkiro.github.io/rsschool-cv/CV.md
