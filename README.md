@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/Enkiro/rsschool-cv/blob/gh-pages/CV
+https://enkiro.github.io/rsschool-cv/CV
