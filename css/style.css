@@ -1,14 +1,22 @@
-header {
+body {
+    color: rgb(35, 4, 65);
+
+}
+.container {
+    max-width: 100%;
+    width: 1200px;
     margin: 0 auto;
-    padding: 0 auto;
-    text-align: center;
-    color: rgb(139, 4, 139);
+    padding: 0 40px;
 }
 
-main {
-    
+.header {
+
     text-align: center;
-    padding: 0 40;
-    color: rgb(139, 4, 139);
+    margin-bottom: 30px;
+    padding-top: 30px;
+
 }
 
+p {
+    padding-left: 20px;
+}
